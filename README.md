@@ -1,3 +1,3 @@
 # spingo-game
 
-Simple spingo game with HTML/CSS/JS
+Simple game for SPINGO paymethod with HTML/CSS/JS
